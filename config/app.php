@@ -11,8 +11,7 @@ return [
     | framework needs to place the application's name in a notification or
     | any other location as required by the application or its packages.
     */
-
-    'name' => 'Laravel',
+    'name' => 'portifolio-mariano',
 
     /*
     |--------------------------------------------------------------------------
@@ -24,7 +23,6 @@ return [
     | services your application utilizes. Set this in your ".env" file.
     |
     */
-
     'env' => env('APP_ENV', 'development'),
 
     /*
@@ -37,7 +35,6 @@ return [
     | application. If disabled, a simple generic error page is shown.
     |
     */
-
     'debug' => env('APP_DEBUG', true),
 
     /*
