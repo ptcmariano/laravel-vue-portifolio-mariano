@@ -2,4 +2,5 @@
 
 @section('content')
     <headerportifolio></headerportifolio>
+    <presentation></presentation>
 @endsection

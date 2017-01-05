@@ -14,6 +14,7 @@ require('./bootstrap');
  */
 
 Vue.component('headerportifolio', require('./components/headerportifolio.vue'));
+Vue.component('presentation', require('./components/presentation.vue'));
 
 const app = new Vue({
     el: '#app'
