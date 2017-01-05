@@ -1,9 +1,5 @@
-@extends('layouts.app')
+@extends('layouts.portifolio')
 
 @section('content')
-<div class="container">
-    <div id="app">
-        <example></example>
-    </div>
-</div>
+    <headerportifolio></headerportifolio>
 @endsection
