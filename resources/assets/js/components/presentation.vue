@@ -6,13 +6,7 @@
                     <img class="img-responsive" src="img/profile.jpg" alt="">
                     <div class="intro-text">
                         <span class="name">Paulo Mariano</span>
-                        <p>
-                        <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
-                        <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
-                        <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
-                        <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
-                        <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
-                        </p>
+                        <fivestars></fivestars>
                         <span class="skills">Web Developer - Entrepreneur - Tester</span>
                     </div>
                 </div>

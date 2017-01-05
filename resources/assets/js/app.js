@@ -14,7 +14,10 @@ require('./bootstrap');
  */
 
 Vue.component('headerportifolio', require('./components/headerportifolio.vue'));
+Vue.component('fivestars', require('./components/fivestars.vue'));
 Vue.component('presentation', require('./components/presentation.vue'));
+Vue.component('badges', require('./components/badges.vue'));
+
 
 const app = new Vue({
     el: '#app'
