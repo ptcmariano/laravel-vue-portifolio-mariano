@@ -17,7 +17,7 @@ Vue.component('headerportifolio', require('./components/headerportifolio.vue'));
 Vue.component('fivestars', require('./components/fivestars.vue'));
 Vue.component('presentation', require('./components/presentation.vue'));
 Vue.component('badges', require('./components/badges.vue'));
-
+Vue.component('projects', require('./components/projects.vue'));
 
 const app = new Vue({
     el: '#app'
