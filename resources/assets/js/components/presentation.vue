@@ -7,7 +7,7 @@
                     <div class="intro-text">
                         <span class="name">Paulo Mariano</span>
                         <fivestars></fivestars>
-                        <span class="skills">Web Developer - Entrepreneur - Tester</span>
+                        <span class="skills">Web Developer - Entrepreneur</span>
                     </div>
                 </div>
             </div>
